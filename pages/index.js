@@ -2,6 +2,7 @@ import { useState } from "react";
 import axios from "axios";
 import { motion } from "framer-motion";
 import { useTranslation } from "react-i18next";
+import Image from "next/image";
 
 export default function Chat() {
   const { t, i18n } = useTranslation();
@@ -28,8 +29,11 @@ export default function Chat() {
 
   return (
     <div className="flex flex-col h-screen bg-gray-900 text-white">
-      <div className="p-4 bg-gray-800 flex justify-between">
-        <h1 className="text-xl font-bold">Qalqan AI</h1>
+      <div className="p-4 bg-gray-800 flex justify-between items-center">
+        <div className="flex items-center">
+          <Image src="/qalqan-logo.png" alt="Qalqan AI Logo" width={50} height={50} />
+          <h1 className="text-xl font-bold ml-2">Qalqan AI</h1>
+        </div>
         <div>
           <button onClick={() => i18n.changeLanguage("en")} className="mx-2 p-2 bg-blue-600 rounded">English</button>
           <button onClick={() => i18n.changeLanguage("ru")} className="mx-2 p-2 bg-red-600 rounded">Русский</button>
