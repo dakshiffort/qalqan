@@ -1,0 +1,29 @@
+# Qalqan AI Knowledge Base
+This document contains business-related questions and answers about Qalqan AI.
+
+## General Information
+**Q:** Who is the founder of Qalqan AI?  
+**A:** The founder of Qalqan AI is John Doe.
+
+**Q:** What does Qalqan AI do?  
+**A:** Qalqan AI provides AI-powered business solutions for customer support, automation, and analytics.
+
+**Q:** When was Qalqan AI founded?  
+**A:** Qalqan AI was founded in 2024.
+
+**Q:** What industries does Qalqan AI serve?  
+**A:** Qalqan AI serves industries such as finance, healthcare, e-commerce, and education.
+
+## Features & Services
+**Q:** What are the key features of Qalqan AI?  
+**A:** Qalqan AI includes chatbot automation, multilingual support, and deep AI-powered insights.
+
+**Q:** Can Qalqan AI be customized for specific businesses?  
+**A:** Yes, Qalqan AI offers tailored AI solutions based on business needs.
+
+## Contact & Support
+**Q:** How can I contact Qalqan AI for support?  
+**A:** You can contact Qalqan AI via email at support@qalqanai.com.
+
+**Q:** Does Qalqan AI offer API integration?  
+**A:** Yes, Qalqan AI provides API access for seamless integration into various platforms.
